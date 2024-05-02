@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Jurnal10_1302220011_KPL.props" />
+</Project>
