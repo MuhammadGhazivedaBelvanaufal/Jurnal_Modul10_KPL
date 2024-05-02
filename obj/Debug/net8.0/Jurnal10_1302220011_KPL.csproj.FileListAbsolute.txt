@@ -30,3 +30,4 @@ D:\Jurnal10_1302220011_KPL\Jurnal10_1302220011_KPL\obj\Debug\net8.0\refint\Jurna
 D:\Jurnal10_1302220011_KPL\Jurnal10_1302220011_KPL\obj\Debug\net8.0\Jurnal10_1302220011_KPL.pdb
 D:\Jurnal10_1302220011_KPL\Jurnal10_1302220011_KPL\obj\Debug\net8.0\Jurnal10_1302220011_KPL.genruntimeconfig.cache
 D:\Jurnal10_1302220011_KPL\Jurnal10_1302220011_KPL\obj\Debug\net8.0\ref\Jurnal10_1302220011_KPL.dll
+D:\Jurnal10_1302220011_KPL\Jurnal10_1302220011_KPL\obj\Debug\net8.0\Jurnal10_1302220011_KPL.sourcelink.json
